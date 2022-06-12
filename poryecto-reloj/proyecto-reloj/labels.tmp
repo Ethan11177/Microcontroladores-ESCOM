@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>14</LINE></reset>
+  <main><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>22</LINE></main>
+  <str><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>181</LINE></str>
+  <time><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>123</LINE></time>
+  <barre><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>162</LINE></barre>
+  <tabla><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>20</LINE></tabla>
+  <ciclo><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>67</LINE></ciclo>
+  <incminu><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>76</LINE></incminu>
+  <incmind><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>87</LINE></incmind>
+  <inchr><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>98</LINE></inchr>
+  <uno><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>82</LINE></uno>
+  <dos><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>93</LINE></dos>
+  <chhd0><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>117</LINE></chhd0>
+  <sale0><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>113</LINE></sale0>
+  <nod0><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>109</LINE></nod0>
+  <sale><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>155</LINE></sale>
+  <chhd><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>157</LINE></chhd>
+  <nod><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>151</LINE></nod>
+  <nvo><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>177</LINE></nvo>
+  <salb><FILE>C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\poryecto-reloj\proyecto-reloj\proyecto-reloj.asm</FILE><LINE>168</LINE></salb>
+ </LABELS>
+</ASSEMBLER_INFO>
