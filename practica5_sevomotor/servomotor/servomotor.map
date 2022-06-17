@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\eevae\OneDrive\Documentos\GitHub\Micros\Micro-controladores\practica_unifila\unifila\unifila.asm Tue Jun 14 23:27:19 2022
+AVRASM ver. 2.1.42  C:\Users\PC\Documents\noveno\Micros\Ejercicios\servomotor\servomotor\servomotor.asm Mon Nov 01 16:26:41 2021
 
 
 EQU  SIGNATURE_000 0000001e
@@ -592,23 +592,15 @@ EQU  OC0addr      00000013
 EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
 DEF  aux          r16
-DEF  col          r17
-DEF  cont         r18
-CSEG reset        00000000
-CSEG main         0000000a
-CSEG barre        00000049
-CSEG loop         0000003e
-CSEG caja1        00000057
-CSEG caja2        0000005c
-CSEG caja3        00000061
-CSEG caja4        00000066
-CSEG caja5        0000006b
-CSEG nvo          00000054
-CSEG salir        00000053
-CSEG inloop1      00000059
-CSEG temp         00000070
-CSEG inloop2      0000005e
-CSEG inloop3      00000063
-CSEG inloop4      00000068
-CSEG inloop5      0000006d
-CSEG res          00000077
+CSEG checa        00000007
+CSEG cero         00000018
+CSEG uno          0000001f
+CSEG dos          00000026
+CSEG tres         0000002d
+CSEG cuatro       00000034
+CSEG cinco        0000003b
+CSEG seis         00000042
+CSEG siete        00000049
+CSEG cta          00000050
+CSEG retardo      00000054
+CSEG L1           00000055
